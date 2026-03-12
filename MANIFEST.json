@@ -1,0 +1,14 @@
+[
+  "APPLY.md",
+  "README.md",
+  "docs/MILESTONE-7.md",
+  "packages/bridges/src/router.ts",
+  "packages/risk/src/engine.ts",
+  "packages/routing/src/planner.ts",
+  "packages/routing/src/scoring.ts",
+  "tests/milestone7/bridge-router-ranking.test.ts",
+  "tests/milestone7/cross-chain-routing.test.ts",
+  "tests/milestone7/multi-hop-routing.test.ts",
+  "tests/milestone7/planner-strategy-dispatch.test.ts",
+  "tests/milestone7/scoring-breakdown.test.ts"
+]
